@@ -14,6 +14,7 @@ import java.util.Objects;
 @Entity
 public class Event {
 
+
     @Id
     @GeneratedValue
     private int id;
